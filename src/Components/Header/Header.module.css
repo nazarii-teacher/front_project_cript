@@ -19,6 +19,7 @@
     width: 70px;
 }
 .blok_img h1{
+    margin-left: 10px;
     font-size: 26px;
 }
 
@@ -27,4 +28,7 @@
 }
 .ul a{
     margin-right: 10%;
+}
+.no_anim:active{
+    scale: 1;
 }

@@ -1,0 +1,29 @@
+.main{
+    max-width: 400px;
+    margin: auto;
+}
+.main h2{
+    text-align: center;
+    padding: 50px 0;
+}
+.main section{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+.main input{
+    padding: 10px 10px;
+    font-size: 18px;
+    width: 100%;
+    
+}
+.main p{
+    font-size: 12px;
+    align-self: flex-end;
+    text-align: right;
+}
+.main a{
+    display: inline;
+    color: #d1105a;
+}

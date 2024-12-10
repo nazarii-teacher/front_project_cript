@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+    color: #212529;
 }
 
 code {
@@ -15,6 +16,7 @@ code {
     box-sizing: border-box;
     margin: 0;padding: 0;
     font-style: normal;
+   
 }
 h1,h2,h3,h4,h5,h6{
     font-size: 30px;
@@ -61,6 +63,7 @@ a{
     word-break: break-word;
     box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.473);
     transition: all .1s linear;
+    cursor: pointer;
 }
 .btn:active,a:active{
     scale: .85;
